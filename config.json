@@ -1,0 +1,22 @@
+{
+  "server": "https://YOUR_PANOPTO_DOMAIN",
+  "client_id": "YOUR_CLIENT_ID",
+  "client_secret": "YOUR_CLIENT_SECRET",
+  "scope": "api",
+  "redirect_uri": "http://127.0.0.1:8765/callback",
+  "port": 8080,
+  "refresh_minutes": 15,
+  "min_refresh_interval_seconds": 120,
+  "max_results_per_page": 250,
+  "max_items": 200,
+  "subscriptions_root_name": "Panopto Subscriptions",
+  "output_root_dir": "feeds",
+  "data_dir": "data",
+  "token_cache": "panopto_token.json",
+  "rss_filename": "panopto.xml",
+  "log_file": "panopto_rss.log",
+  "state_filename": "state.json",
+  "folder_cache_filename": "folder_cache.json",
+  "folder_cache_ttl_days": 7,
+  "index_filename": "index.html"
+}
